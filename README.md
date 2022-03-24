@@ -1,4 +1,4 @@
 # PokeSearch
-A digital Pokedex, created using PokeAPI.
+A digital Pokédex, created using PokeAPI.
 
 https://pokeapi.co/
