@@ -35,7 +35,6 @@ const displayInfo = (data) => {
 
 
 const errorMessage = () => {
-    console.log("No data");
     pokemonDiv.innerHTML = `<h1 class="error-message">The Pokémon "${data.name}" could not be found. Please try again!</h1>`;
 }
 
