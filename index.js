@@ -3,7 +3,7 @@ const pokemonDiv = document.querySelector('.pokemon-card');
 const submit = document.querySelector('button');
 
 //object storing API data
-const data = {
+let data = {
     url: 'https://pokeapi.co/api/v2/',
     type:'pokemon',
     name: 'pikachu',
