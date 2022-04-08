@@ -24,9 +24,10 @@ button{
 /* CLASS STYLING */
 
 .name{
-    margin: 3% auto;
     display:block;
     filter: drop-shadow(10px 10px 1px #0000003d);
+    margin: 3% auto;
+    width: 75%;
 }
 
 .pokemon-card{
