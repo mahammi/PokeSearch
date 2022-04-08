@@ -27,7 +27,7 @@ button{
     display:block;
     filter: drop-shadow(10px 10px 1px #0000003d);
     margin: 3% auto;
-    width: 75%;
+    width: 40%;
 }
 
 .pokemon-card{
